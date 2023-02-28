@@ -1,0 +1,11 @@
+editing staging file
+this
+is a staging
+
+
+
+file
+which 
+
+is 
+been added
